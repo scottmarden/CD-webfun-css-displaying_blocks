@@ -1,0 +1,48 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+#wrapper{
+	width: 640px;
+	background: #cbc89e;
+	margin: 20px;
+	padding: 20px;
+}
+
+img{
+	height: 100px;
+	border: 2px solid black;
+}
+
+#header{
+	text-align: center;
+}
+
+#header img{
+	display: inline-block;
+	height: 50px;
+	width: 100px;
+	background-color: white;
+}
+
+#header h1{
+	display: inline-block;
+}
+
+.row img{
+	padding: 10px;
+}
+
+#outlier{
+	width: 100px;
+	height: 100px;
+}
+
+.col_odd{
+	background: #70a3ea;
+}
+
+.col_even{
+	background: #ee505d;
+}
